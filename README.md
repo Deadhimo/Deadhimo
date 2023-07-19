@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deadhimo
+- 👋 Hi, I’m @Himoaky
 - 👀 I’m interested in ...coding web app
 - 🌱 I’m currently learning ... mainly node.js
 - Ive started learning programming since 2023-06-30
